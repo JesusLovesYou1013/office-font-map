@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 # Builds data/font-sources.json: pinned google/fonts commit, exact files, sha256.
 # Run inside data/ with a google/fonts clone at ./gf (git clone https://github.com/google/fonts gf).
 import json, subprocess, hashlib, os, re, concurrent.futures as cf, urllib.request

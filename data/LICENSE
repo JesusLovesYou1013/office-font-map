@@ -1,10 +1,12 @@
 office-font-map data (office-font-map.json, font-sources.json)
 by JesusLovesYou1013
 
-Licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
-You may share and adapt it for any purpose, including commercially, as long as you give credit
-("office-font-map by JesusLovesYou1013"), link the licence, and say if you changed it.
-Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0).
+You may share and adapt it for any purpose, including commercially, as long as you:
+  - give credit ("office-font-map by JesusLovesYou1013"), link the licence, and say if you changed it;
+  - share what you make from it under the same licence (or a compatible one: CC lists GPL 3 as compatible,
+    so GPL-3.0 programs can carry this data).
+Full licence text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 The data holds font names and measurements only, no font files. Font names are trademarks of their
 owners. The free fonts listed for download are under their own licences, named in font-sources.json.

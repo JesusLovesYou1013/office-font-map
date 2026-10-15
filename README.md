@@ -51,9 +51,11 @@ update the data.
 
 ## Licence
 
-- Data (`data/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit "office-font-map by
-  JesusLovesYou1013".
-- Code (`python/`, `tools/`): MIT, see [LICENSE](LICENSE).
+Open, and it stays open: anything built from it must be shared under the same terms.
+
+- Data (`data/`): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit "office-font-map by
+  JesusLovesYou1013". CC BY-SA 4.0 is one-way compatible with GPL 3, so GPL programs can include it.
+- Code (`python/`, `tools/`): GPL-3.0-or-later, see [LICENSE](LICENSE).
 - The free fonts themselves are under their own licences, almost all the SIL Open Font License. Each
   download source names its licence file.
 - Microsoft, Office, Calibri, Cambria, Aptos, Segoe and the other font names are trademarks of their owners

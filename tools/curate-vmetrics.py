@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Add each Office family's vertical metrics to office-font-map.json as "va": [ascent, descent, gap]
 in em, as Windows/PowerPoint lays the font out (GDI+ cell ascent, cell descent, and line spacing
 minus both), measured on the Office machine (final.json targets, Latin script where measured).

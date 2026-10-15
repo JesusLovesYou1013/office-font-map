@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Put the designed metric clones first in office-font-map.json. They were not in the
 measured candidate set; their metrics are documented as matching the Office face."""
 import json, sys

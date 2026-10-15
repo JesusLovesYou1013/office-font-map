@@ -1,6 +1,7 @@
 """office_font_map: draw Office documents in free fonts at the size that makes them look the same.
 
 Reference implementation of docs/using-it.md. Standard library only; copy this file into any project.
+SPDX-License-Identifier: GPL-3.0-or-later
 
     from office_font_map import FontMap
     fm = FontMap.load()                                   # data/office-font-map.json beside this repo
