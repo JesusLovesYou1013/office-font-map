@@ -43,5 +43,6 @@ In OmaShow, against PowerPoint's own output for the same decks:
 - `mk-font-sources.py`: builds `font-sources.json` from a google/fonts clone at a pinned commit (run in
   `data/`, with the clone at `./gf`).
 
-Not here yet: the Windows measuring scripts (PowerShell) and the raw measurement files (`final.json`,
-`families.json`, `office-widths.json`). They'll be added from the original measuring machine.
+The Windows measuring itself was done once and its results are all in the data. The one-off measuring
+scripts aren't included. To measure a new Office font, repeat the steps above on a Windows machine with that
+font: GDI+ for `va` and `xm`, and WPF `FormattedText` for `aw`.
